@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=lingKaran
+comment1.params=r
+comment1.target=void\ inputJariJari(int)
+comment2.params=d
+comment2.target=void\ inputDiameter(double)
+comment3.params=
+comment3.target=void\ hitungLuasLingkaran()
+comment4.params=
+comment4.target=void\ hitungKelLingkaran()
+comment5.params=
+comment5.target=int\ getJariJari()
+numComments=6
